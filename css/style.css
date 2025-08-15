@@ -55,7 +55,7 @@ body {
 /*p HEADER */
 
 .header {
-  background-image: url(/images/background2.jpg);
+  background-image: url(https://github.com/MK-CodeWizards-101/Serf/blob/main/images/background2.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -619,6 +619,7 @@ body {
   }
 
 }
+
 
 
 
